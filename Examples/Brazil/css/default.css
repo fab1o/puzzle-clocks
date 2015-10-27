@@ -1,0 +1,23 @@
+﻿@font-face{
+    font-family:time-normal;
+    src:url("/fonts/time-normal.eot");
+}
+
+body {
+    margin:0;
+    background-color:#282828;
+}
+#canvas2{
+    position:relative;
+}
+
+#g_imageObj {
+    position:absolute;top:0;left:0;z-index:-1;
+    color:#d1d1d1
+}
+
+#splash {
+    position:absolute;
+    top:45%;
+    left:45%;
+}
