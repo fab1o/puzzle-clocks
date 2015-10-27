@@ -1,6 +1,6 @@
 
 # Puzzle Clocks
-*A customizable puzzle game that turns into a clock. Make your own by following the examples
+*A [customizable puzzle game](https://www.microsoft.com/en-us/store/games/puzzle-clocks-canada/9wzdncrdxw00) that turns into a clock. Make your own by following the examples*
 
 ### Dependencies
 
